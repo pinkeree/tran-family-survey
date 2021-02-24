@@ -13,3 +13,28 @@ their extenuating circumstances
 ///////
 
 I hope you enjoy this
+
+
+## Installation
+
+unzip the folder and extract the files
+
+```
+duh
+```
+
+## Usage
+
+```python
+import the files you want
+.obviously
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+Doubt you guys are gonna contribute though
+
+## License
+[Kaitlyn and I made this](https://forms.gle/CznuyUa8sL9YrwfR9)
